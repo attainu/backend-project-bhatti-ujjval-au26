@@ -1,13 +1,8 @@
 # dependencies
-dist
-/dist
 node_modules
 /node_modules
-uploads/*.jpg
-uploads/*.png
-
-/.pnp
-.pnp.js
+dist
+/dist
 
 # testing
 /coverage
@@ -23,13 +18,4 @@ uploads/*.png
 .env.test.local
 .env.production.local
 
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-frontend/node_modules/**
-frontend/build/**
-package-lock.json
-yarn-lock.json
-frontend/package-lock.json
-frontend/yarn-lock.json
-frontend/main.js
+
